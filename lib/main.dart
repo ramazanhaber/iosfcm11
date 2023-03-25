@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'HomePage.dart';
 import 'LocalNotificationService.dart';
-
+// aytekinhaber.07.07 gmailini kullandık
 @pragma('vm:entry-point')
 Future<void> backgroundHandler(RemoteMessage message) async {
   // print(message.data.toString());
